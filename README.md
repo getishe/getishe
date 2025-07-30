@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">  Hi there 👋 I'm Getahune Alemayhu </h1>  
- <p align="center"> <strong> I’m currently working on focus on consistent practice , bulding projects, seeking feedback, and staying updated with latest technologies </strong> </p>
+ <p align="center"> <strong> I'm focusing on consistent practice, building projects, seeking feedback, and staying updated with the latest technologies. </strong> </p>
  <p align="left">
 🎯 Passionate about building interactive, accessible, and visually striking web experiences  <br>
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  <br>
