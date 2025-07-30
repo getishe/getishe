@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">  Hi there 👋 I'm Getahune Alemayhu </h1>  
- <p align="center" font-size="12px"> I’m currently working on focus on consistent practice , bulding projects, seeking feedback, and staying updated with latest technologies </p>
+ <p align="center" font-size="30px"> I’m currently working on focus on consistent practice , bulding projects, seeking feedback, and staying updated with latest technologies </p>
 🎯 Passionate about building interactive, accessible, and visually striking web experiences  
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  
 🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  
