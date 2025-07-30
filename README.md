@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   </a></li><br>
  <li>📚 Constant learner with a focus on inclusive, user-centric design </p> </li>
 </ul>
----
+
 
 ## 🧰 Tech Stack & Tools
 
