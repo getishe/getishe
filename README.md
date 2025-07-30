@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  </br>
 🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  </br>
 👯 Seeking collaboration on coding challenges and problem-solving. </br>
-💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips on  </br>
+💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips on https://www.medium.com/@getahune.alemayhu </br>
 📚 Constant learner with a focus on inclusive, user-centric design </br>
 
 ---
