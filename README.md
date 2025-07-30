@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 <h1 align="center">  Hi there 👋 I'm Getahune Alemayhu </h1>  
  <p align="center"> <strong> I’m currently working on focus on consistent practice , bulding projects, seeking feedback, and staying updated with latest technologies </strong> </p>
 🎯 Passionate about building interactive, accessible, and visually striking web experiences  </br>
-🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  
-🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  
-👯 Seeking collaboration on coding challenges and problem-solving.
-💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips  
-📚 Constant learner with a focus on inclusive, user-centric design
+🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  </br>
+🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  </br>
+👯 Seeking collaboration on coding challenges and problem-solving. </br?
+💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips  </br>
+📚 Constant learner with a focus on inclusive, user-centric design 
 
 ---
 
