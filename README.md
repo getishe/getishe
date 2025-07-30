@@ -76,10 +76,4 @@ Here are some ideas to get you started:
 
 
 
-## 🤝 Let's Connect
-
-- 🔗 [LinkedIn](your-link)
-- 📝 [Blog](your-blog-if-any)
-- 🐦 [Twitter](your-handle)
-
 ---
