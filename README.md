@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  </br>
 🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  </br>
 👯 Seeking collaboration on coding challenges and problem-solving. </br>
-💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips on <a href="https://medium.com/@getahune.alemayhu" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" width="40" height="30" display="inline-block" justify-content="center" align-items="center" margin="0" padding="0" />
-</a>
+💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips on <img src="https://camo.githubusercontent.com/a3a0050f4553ad1a7ca4f36fe136688e47ed67aae4b57e292461da18fe3a5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2e636f6d2d677261793f7374796c653d666c61742d737175617265266c6f676f3d4d454449554d" alt="GitHub" data-canonical-src="https://img.shields.io/badge/Medium.com-gray?style=flat-square&amp;logo=MEDIUM" style="max-width: 100%;">
 </br>
 📚 Constant learner with a focus on inclusive, user-centric design </br>
 
