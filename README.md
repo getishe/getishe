@@ -9,8 +9,8 @@ Here are some ideas to get you started:
  <p align="left">
 🎯 Passionate about building interactive, accessible, and visually striking web experiences  
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  
-🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  </br>
-👯 Seeking collaboration on coding challenges and problem-solving. </br>
+🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  
+👯 Seeking collaboration on coding challenges and problem-solving. 
 
   💬 Ask me about scroll snapping, History API, and responsive design — I share tips on 
   <a href="https://medium.com/@getahune.alemayhu" target="_blank" style="display:inline-block;">
