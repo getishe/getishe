@@ -10,8 +10,11 @@ Here are some ideas to get you started:
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  </br>
 🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation  </br>
 👯 Seeking collaboration on coding challenges and problem-solving. </br?
-💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips  </br>
-📚 Constant learner with a focus on inclusive, user-centric design 
+💬 Ask me about scroll snapping, History API, and responsive design—I love sharing tips on <a href="https://medium.com/@yourusername" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" alt="Medium" width="40" height="40"/>
+</a>
+ </br>
+📚 Constant learner with a focus on inclusive, user-centric design </br>
 
 ---
 
