@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 -->
-<heading align="center"> # Hi there 👋 I'm Getahune Alemayhu </heading>  
+<h1 align="center">  Hi there 👋 I'm Getahune Alemayhu </h1>  
 🔭 I’m currently working on focus on consistent practice , bulding projects, seeking feedback, and staying updated with latest technologies
 🎯 Passionate about building interactive, accessible, and visually striking web experiences  
 🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning  
