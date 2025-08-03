@@ -10,7 +10,7 @@ Here are some ideas to get you started:
  <p align="left">
  <li>🎯 Passionate about building interactive, accessible, and visually striking web experiences</li>  <br>
  <li>🛠️ Skilled in advanced CSS, JavaScript, scroll-driven UI, DOM manipulation, and performance tuning </li>  <br>
- <li>🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation </li>  <br> 
+ <li>🌱 Currently Acquiring knowledge or skills. exploring smooth transitions, dynamic section targeting, and seamless navigation </li> <br> 
  <li>👯 Seeking collaboration on coding challenges and problem-solving </li> <br>
  <li>💬 Ask me about scroll snapping, History API, and responsive design — I share tips on 
    
